@@ -6,6 +6,8 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+TaskmasterErnest checking in to see some stuff
+
 ---
 
 ### This is a header
