@@ -17,4 +17,5 @@ func main() {
 I hope this code shows up
 
 I want to add an image of the famous Cowboy Bebop guy
+
 ![image-of-cowboy-bebop-guy](../assets/image-layer-caching/banner.jpg)
