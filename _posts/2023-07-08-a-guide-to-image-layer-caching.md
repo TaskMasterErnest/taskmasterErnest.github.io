@@ -12,10 +12,12 @@
 Before defining a Docker image, let it be known that a Docker image contains an OS filesystem, an application and all the application's dependencies. (big words huh!)
 Therefore, a Docker image can be said to be a representation of a small server running an application. It contains all the things needed to run an application. 
 ```text
-Imagine you are running an application on your local machine; you have an OS that it runs on,
+Imagine you are running an application on your local machine;
+you have an OS that it runs on,
 an application code and the dependencies needed to run the code.
 Now start that application, and pause it.
-mentally take that specific process off the machine and essentially you have a representation of the machine+application+dependencies,
+mentally take that specific process off the machine
+and essentially you have a representation of the machine+application+dependencies,
 and that is an image.
 ```
 In other words, a `Docker image` is a lightweight, standalone and executable package of software that includes everything needed to run an application; contains the code, runtime (OS) system tools, libraries (dependencies) and settings (tweaks to make the application run).
