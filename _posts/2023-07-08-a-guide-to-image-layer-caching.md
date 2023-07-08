@@ -2,7 +2,7 @@
 
 Or what I like to call "getting things done very fast with premade steps".
 
-This will probabaly be fun.
+This will probably be fun.
 
 ```go
 package main
