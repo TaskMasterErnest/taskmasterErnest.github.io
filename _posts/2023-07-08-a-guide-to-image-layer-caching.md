@@ -20,3 +20,7 @@ I want to add an image of the famous Cowboy Bebop guy
 
 ![image-of-cowboy-bebop-guy](../assets/image-layer-caching/banner.jpg)
 
+Pushing the limits of what to do with this.
+Adding a .gif file
+
+![a GIF file](../assets/image-layer-caching/cowboy-bebop-girl.gif)
