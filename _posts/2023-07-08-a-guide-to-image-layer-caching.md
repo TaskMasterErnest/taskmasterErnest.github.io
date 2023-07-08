@@ -3,9 +3,11 @@
 ## What is Caching?
 - Caching is the process of storing copies of data in a temporary storage location so that they can be accessed more quickly.
 	- this is done to improve the performance of systems/applications by reducing the need to access the original data source every time.
+
 ## What is Layer?
 - A layer is a physical or logical grouping of related components that perform a specific function.
 	- layers are used to simplify the design and implementation of complex systems by dividing them into smaller manageable components.
+
 ## What is an Image?
 - An image can be defined as a visual representation of a digital object.
 	- but in this case we are talking about Docker images.
