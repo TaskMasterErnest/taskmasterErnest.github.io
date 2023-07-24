@@ -1,13 +1,13 @@
 title: "GoneFishing"
 author: "Ernest Klu"
-description: "Embark on an exciting DevOps journey through insightful blog posts, unraveling the secrets and making it accessible for all." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "I want to know enough so I can automate my job away; the hallmark of a good DevOps engineer (I heard this somewhere)." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 # email: "example@mail.com"
 # twitter_username: "twitteruser"
 github_username: "TaskMasterErnest"
-linkedin_username: ["Ernest Woeli Klu"](https://www.linkedin.com/in/ernest-woeli-klu/)
+linkedin_username: "Ernest Woeli Klu"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
