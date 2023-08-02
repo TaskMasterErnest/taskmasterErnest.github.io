@@ -21,3 +21,6 @@
 	```
   - In this example, we define a function called `divide` that takes two float64 arguments `x` and `y`. The function checks if `y` is zero, and if it is, it returns an error using the `return` keyword followed by the error message.
 	- If `y` is not zero, the function returns the result of dividing `x` by `y` using the `return` keyword followed by the expression `x / y` and `nil` to indicate that there is no error.
+
+
+![lets-go-fishing](https://th.bing.com/th/id/R.a801c5e00d5fb915e939a5c30385b941?rik=7ygoHJl4WuKeJQ&riu=http%3a%2f%2fwww.animatedimages.org%2fdata%2fmedia%2f157%2fanimated-fishing-image-0131.gif&ehk=rQq%2bd2QDkwjFPyX1hPoyHfP%2bFC7iis9SSANWH6%2bO9dk%3d&risl=&pid=ImgRaw&r=0)
