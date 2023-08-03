@@ -234,6 +234,7 @@ staging_values = [
 - To get to store this in a Git repo like GitHub, you have to initialize Git in the directory the Terraform file resides.
 - After initialization, you have to ignore the pushing of some files to the public repo. These files either contain sensitive data or are large files to send.
 - A typical `.gitignore` file for Terraform will be:
+
 ```text
 # everything in the .terraform directory
 .terraform/*
