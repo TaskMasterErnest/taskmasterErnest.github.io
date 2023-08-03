@@ -56,6 +56,7 @@ The provider can be likened to dependencies in code, they are not directly insta
 When the provider is initialized, it gives the user full access to the API of that technology (everything that the provider is willing to let communicate with Terraform).
 
 - Create a `main.tf` file, this will house all the Terraform code we will write.
+
 ```hcl
 provider "aws" {
 	region = "eu-west-2"
