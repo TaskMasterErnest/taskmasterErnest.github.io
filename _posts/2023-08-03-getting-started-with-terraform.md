@@ -1,9 +1,11 @@
 # A Primer on Getting (UN)Comfortable with Terraform
 
 *You know what they say about Terraform right? You can change the world with it. Lol*
+
 **No?**
 
-![](assets//jake-tapper-jake-tapper-crickets.gif)
+![](/assets/jake-tapper-jake-tapper-crickets.gif)
+
 Well let's get on with it then shall we?
 
 ## Overview
@@ -53,7 +55,7 @@ The provider can be likened to dependencies in code, they are not directly insta
 When the provider is initialized, it gives the user full access to the API of that technology (everything that the provider is willing to let communicate with Terraform).
 
 - Create a `main.tf` file, this will house all the Terraform code we will write.
-```YAML
+``` hcl
 provider "aws" {
 	region = "eu-west-2"
 	# access_key = "access key"
@@ -131,7 +133,7 @@ output "aws-subnet-id" {
 
 ```
 -  the `terraform-dev.tfvars` file / the `terraform.tfvars` file.
-```yaml
+``` hcl
 dev_cidr_block = "10.0.10.0/16"
 environment = "development"
 subnet_cidr_blocks = ["10.0.20.0/24", "172.31.48.0/20"]
