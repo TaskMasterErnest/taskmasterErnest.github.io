@@ -3,7 +3,7 @@
 *You know what they say about Terraform right? You can change the world with it. Lol*
 **No?**
 
-![](https://tenor.com/view/jake-tapper-jake-tapper-crickets-jake-tapper-silence-jake-tapper-awkward-silence-jake-tapper-crickets-sound-gif-21998318)
+![](assets//jake-tapper-jake-tapper-crickets.gif)
 Well let's get on with it then shall we?
 
 ## Overview
