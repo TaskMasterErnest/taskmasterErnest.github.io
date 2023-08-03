@@ -34,6 +34,7 @@ Terraform is an infrastructure provisioning tool.
 	- `plan` - this is used to create an execution plan ie. the actions Terraform must take in order to get the desired state.
 	- `apply` - this is to execute the stages/plans that are guaranteed to get to the desired state.
 	- `destroy` - this is to remove all resources provisioned by Terraform. aka remove all components of the desired state.
+
 ---
 
 ## Installing Terraform
